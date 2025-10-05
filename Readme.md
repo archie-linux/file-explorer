@@ -12,6 +12,7 @@ Link: https://drive.google.com/file/d/1iSqt9LmMZkKrcPRREVilWGlRiTS8JY-E/view?usp
 
 ### Links to AI chats
 
-1. Claude: https://claude.ai/chat/f71b0186-9442-43d1-94a5-df3a621f5a44
+1. Claude: <a href="https://github.com/anpa6841/file-explorer/blob/master/File Explorer Claude.pdf">File Explorer</a>
 
-2. ChatGPT: https://chatgpt.com/c/677f996c-75fc-8006-9b11-f858e62aa18d (Mostly Troubleshooting)
+2. ChatGPT: https://chatgpt.com/share/67831615-87f8-8006-9dc2-efa31738a9ea (Mostly Troubleshooting)
+
